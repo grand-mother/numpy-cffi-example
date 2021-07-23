@@ -1,0 +1,4 @@
+build
+grand/libgrand*
+share
+__pycache__
